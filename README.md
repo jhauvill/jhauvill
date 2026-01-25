@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Justin</h1>
-<h3 align="center">42 Student · Network & Systems Architecture</h3>
+<h3 align="center">42 Student</h3>
 
 ---
 
 ## 🚀 About Me
-🎓 Student at **École 42 Le Havre**, currently finishing the **common core**  
-🔐 Strong interest in **cybersecurity**, **system hardening**, and **infrastructure security**
+🎓 Student at **École 42 Le Havre**, currently doing the **common core**  
+🔭 Currently working on the **Philosophers project**
+🧠 Exploring **Unix systems** and **low-level programming**
 
 ---
 
@@ -18,6 +19,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
 </p>
+
+---
+
+## 📍 Location
+Le Havre, France  
+
+## 📫 Contact
+✉️ [Email me](mailto:justin.hauville76@gmail.com)
 <!--
 **jhauvill/jhauvill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
