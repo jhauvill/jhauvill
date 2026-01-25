@@ -26,7 +26,7 @@
 Le Havre, France  
 
 ## 📫 Contact
-✉️ [Email me](mailto:justin.hauville76@gmail.com)
+✉️ [Email me](mailto:239566333+jhauvill@users.noreply.github.com)
 <!--
 **jhauvill/jhauvill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
