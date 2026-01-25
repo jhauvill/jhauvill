@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 🎓 Student at **École 42 Le Havre**, currently doing the **common core**  
-🔭 Currently working on the **Philosophers project**
+🔭 Currently working on the **Philosophers project**  
 🧠 Exploring **Unix systems** and **low-level programming**
 
 ---
@@ -25,8 +25,10 @@
 ## 📍 Location
 Le Havre, France  
 
+---
+
 ## 📫 Contact
-✉️ [Email me](mailto:jhauvill@student.42lehavre.fr)
+✉️ justin.hauvill@42.fr
 <!--
 **jhauvill/jhauvill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
