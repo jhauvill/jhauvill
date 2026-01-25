@@ -28,7 +28,7 @@ Le Havre, France
 ---
 
 ## 📫 Contact
-✉️ justin.hauvill@42.fr
+✉️ jhauvill@student.42lehavre.fr 
 <!--
 **jhauvill/jhauvill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
