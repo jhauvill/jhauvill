@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 🎓 Student at **École 42 Le Havre**, currently doing the **common core**  
-🔭 Currently working on the **Philosophers project**  
+🔭 Currently working on **Cub3d**  
 🧠 Exploring **Unix systems** and **low-level programming**
 
 ---
