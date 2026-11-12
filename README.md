@@ -7,7 +7,7 @@
 🎓 Student at **École 42 Le Havre**, preparing the **RNCP 7 "Expert en architecture informatique"** (option Information Systems & Networks)  
 🧠 Passionate about **Linux systems**, **containers** and **infrastructure security**  
 🔎 **Looking for a 2-year work-study (alternance)** in **system administration, DevOps or infrastructure security**  
-📍 Based in Le Havre, mobile across France (Normandy, Paris, Dijon preferred)
+📍 Based in Le Havre, mobile across France
 
 ---
 
